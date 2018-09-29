@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week4", "week4\week4.csproj", "{A6B0059C-4E64-4D4A-8BC0-487A8367B285}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week4-Link", "week4\week4-Link.csproj", "{A6B0059C-4E64-4D4A-8BC0-487A8367B285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week04 - Queue", "week04 - Queue\week04 - Queue.csproj", "{AC911B6C-6060-446A-8966-FB6CDFBF5848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week04 - Stack", "week04 - Stack\week04 - Stack.csproj", "{630211CA-FBD8-4903-81A9-9FA46C3B211C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQwithListCollection", "LINQwithListCollection\LINQwithListCollection.csproj", "{F3FD8C43-874F-482E-AAA0-FC16E611E2CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQwithSimpleTypeArray", "LINQwithSimpleTypeArray\LINQwithSimpleTypeArray.csproj", "{7E1C586A-DEB7-466D-ADAA-F16623FB560E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQwithArrayToObject", "LINQwithArrayToObject\LINQwithArrayToObject.csproj", "{54EA95DA-DC3D-4254-874A-2AE8DDBFAA67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{A6B0059C-4E64-4D4A-8BC0-487A8367B285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6B0059C-4E64-4D4A-8BC0-487A8367B285}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6B0059C-4E64-4D4A-8BC0-487A8367B285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC911B6C-6060-446A-8966-FB6CDFBF5848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC911B6C-6060-446A-8966-FB6CDFBF5848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC911B6C-6060-446A-8966-FB6CDFBF5848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC911B6C-6060-446A-8966-FB6CDFBF5848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630211CA-FBD8-4903-81A9-9FA46C3B211C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630211CA-FBD8-4903-81A9-9FA46C3B211C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630211CA-FBD8-4903-81A9-9FA46C3B211C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630211CA-FBD8-4903-81A9-9FA46C3B211C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FD8C43-874F-482E-AAA0-FC16E611E2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FD8C43-874F-482E-AAA0-FC16E611E2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FD8C43-874F-482E-AAA0-FC16E611E2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FD8C43-874F-482E-AAA0-FC16E611E2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1C586A-DEB7-466D-ADAA-F16623FB560E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1C586A-DEB7-466D-ADAA-F16623FB560E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1C586A-DEB7-466D-ADAA-F16623FB560E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1C586A-DEB7-466D-ADAA-F16623FB560E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EA95DA-DC3D-4254-874A-2AE8DDBFAA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EA95DA-DC3D-4254-874A-2AE8DDBFAA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EA95DA-DC3D-4254-874A-2AE8DDBFAA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EA95DA-DC3D-4254-874A-2AE8DDBFAA67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
